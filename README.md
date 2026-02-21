@@ -40,8 +40,6 @@ antivirus/
 **Requirements:** Python 3.8+
 
 ```bash
-git clone https://github.com/yourusername/pyav.git
-cd pyav
 pip install psutil watchdog
 ```
 
